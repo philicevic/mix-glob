@@ -4,7 +4,9 @@
   "description": "Laravel Mix extension to support glob values for building tools",
   "main": "index.js",
   "keywords": [
-    "laravel-mix", "mix", "glob"
+    "laravel-mix",
+    "mix",
+    "glob"
   ],
   "author": {
     "name": "Philipp Ehrenberg",
