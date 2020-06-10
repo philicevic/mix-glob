@@ -1,0 +1,25 @@
+{
+  "name": "mix-glob",
+  "version": "0.1.0",
+  "description": "Laravel Mix extension to support glob values for building tools",
+  "main": "index.js",
+  "keywords": [
+    "laravel-mix", "mix", "glob"
+  ],
+  "author": {
+    "name": "Philipp Ehrenberg",
+    "email": "ehrenberg.ph@gmail.com"
+  },
+  "homepage": "https://www.npmjs.com/package/mix-glob",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philicevic/mix-glob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philicevic/mix-glob/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
