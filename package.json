@@ -1,6 +1,6 @@
 {
   "name": "mix-glob",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Laravel Mix extension to support glob values for building tools",
   "main": "index.js",
   "keywords": [
